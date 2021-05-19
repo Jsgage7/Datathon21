@@ -1,7 +1,7 @@
 # Datathon21
 
-##Curbing German Drug Misuse
-####Team- Kings of Kelton: Oscar O’Brien, William Foote, Jared Gage
+## Curbing German Drug Misuse
+#### Team- Kings of Kelton: Oscar O’Brien, William Foote, Jared Gage
 	
 	Of the 8,238 overdose deaths in the European Union in 2017, 13% of those cases came in Germany alone. And, from 2012-2020, the number of German overdose deaths has increased year-over-year in every year except 2017. With this in mind, our group used data from the German population to try to determine if we could predict drug misuse as a preventative measure. Two of the questions of interest that we aimed to find answers to included: is there a particular mental illness that is correlated with drug use or vice versa, and is there a prescription drug that when used legally is correlated with drug misuse. We also aimed to see if the region in Germany made a difference in cases of misuse, that is if some regions are hit harder by illicit drug use. 
 
