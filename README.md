@@ -15,6 +15,6 @@ In terms of location, illicit drug use is more prevalent in the western half of 
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) *
 
 ** Per rules of datathon concerning sensitive data of individuals, I have included no data, and have removed it from my computer.**
