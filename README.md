@@ -12,3 +12,8 @@ For people who were taking drugs as prescribed, we found that a person's probabi
 Interesting enough, codeine was at the bottom of this list, which means that a person who takes codeine as prescribed is least likely to misuse drugs as compared to any of the other drugs. This, taken into account with the prior information, may mean that doctors are more likely to prescribe codeine to patients with mental illness because they feel it is less likely to be a gateway drug, and as a result this drug is more readily available to patients.
 
 In terms of location, illicit drug use is more prevalent in the western half of Germany. Drugs that are GABA analogues were seen more in the east of the country. However, we found the location of a person to be less of a concrete indicator of illicit drug use.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+** Per rules of datathon concerning sensitive data of individuals, I have included no data, and have removed it from my computer.**
